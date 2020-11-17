@@ -1,0 +1,32 @@
+ITEMSHOP_ITEM_PRICE	Cena: |cFFFFC700|h%s SM|r
+ITEMSHOP_CATEGORY_01	Czary przedmiotów
+ITEMSHOP_CATEGORY_02	Kostiumy
+ITEMSHOP_CATEGORY_03	Fryzury
+ITEMSHOP_CATEGORY_04	Wierzchowce
+ITEMSHOP_CATEGORY_05	Zwierzaki
+ITEMSHOP_CATEGORY_06	Nak³adki na broñ
+ITEMSHOP_CATEGORY_07	Przedmioty specjalne
+ITEMSHOP_CATEGORY_08	Runy
+ITEMSHOP_CATEGORY_09	Szarfy
+ITEMSHOP_CATEGORY_10	Kamienie Dusz
+ITEMSHOP_CATEGORY_11	Badania Biologa
+ITEMSHOP_CATEGORY_12	Kupony SM
+ITEMSHOP_CATEGORY_13	Inne
+ITEMSHOP_YOUR_COINS	Iloœæ SM: %s
+ITEMSHOP_DO_YOU_ADD_ITEM	Czy chcesz dodaæ %s do sprzeda¿y?
+ITEMSHOP_DO_YOU_EDIT_ITEM	Czy chcesz edytowaæ %s?
+ITEMSHOP_DO_YOU_DELETE_ITEM	Czy chcesz usun¹æ %s?
+ITEMSHOP_EDITOR_ADD_ITEM	Dodaj przedmiot
+ITEMSHOP_EDITOR_ITEM_PREFIX	• %s
+ITEMSHOP_DO_YOU_BUY_ITEM1	Do you want to buy %s for %s DC?
+ITEMSHOP_DO_YOU_BUY_ITEM2	Do you want to buy %s (%s lots) for %s DC?
+ITEMSHOP_SELECT_SOCKET	Wybierz kamieñ
+ITEMSHOP_SELECT_EMPTY	Brak
+ITEMSHOP_SELECT_BONUS	Wybierz bonus
+ITEMSHOP_SELECT_ITEM	Wybierz przedmiot
+ITEMSHOP_NOT_ENOUGH_COINS	Nie posiadasz wystarczaj¹cej iloœci Smoczych Monet.
+ITEMSHOP_INVENTORY_FULL	Nie ma miejsca w ekwipunku.
+ITEMSHOP_WARP	Musisz odczekaæ 10 sekund.
+ITEMSHOP_NON_EDITOR	Nie jesteœ edytorem, nie mo¿esz tego zrobiæ.
+ITEMSHOP_COUNT	Wprowadzi³eœ nieprawid³ow¹ iloœæ przedmiotu.
+ITEMSHOP_UNKNOWN_ERROR	Nieznany b³¹d

@@ -1,0 +1,15 @@
+ITEMSHOP_TITLE	Sklep z przedmiotami
+ITEMSHOP_ITEM_INFO	NajedŸ na przedmiot w celu wyœwietlenia opisu
+ITEMSHOP_EDIT_ITEM_INFO	Naciœnij na pole przedmiotu, aby go edytowaæ
+ITEMSHOP_EDITOR_ITEM_NAME	Nazwa przedmiotu
+ITEMSHOP_EDITOR_ITEM_COUNT	Iloœæ
+ITEMSHOP_EDITOR_ITEM_PRICE	Cena
+ITEMSHOP_EDITOR_ITEM_MAIN	Podstawowe informacje o przedmiocie
+ITEMSHOP_EDITOR_ITEM_ATTR	Informacje o bonusach
+ITEMSHOP_EDITOR_ITEM_SOCKET	Informacje o kamieniach dusz lub czasie
+ITEMSHOP_EDITOR_ITEM_SOCKET_TEXT	Kamieñ %d
+ITEMSHOP_EDITOR_ITEM_ATTR_TEXT	Bonus %d
+ITEMSHOP_EDITOR_ITEM_ATTR_VALUE_TEXT	Wartoœæ %d
+ITEMSHOP_EDITOR_ADD_ITEM	Dodaj przedmiot
+ITEMSHOP_EDITOR_EDIT_ITEM	Edytuj przedmiot
+ITEMSHOP_EDITOR_DELETE_ITEM	Usuñ przedmiot
